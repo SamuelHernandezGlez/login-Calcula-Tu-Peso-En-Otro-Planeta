@@ -1,0 +1,39 @@
+body{
+	background:#171717
+}
+
+p {
+	color:#FF6614;
+	font-family: Evogria;
+	font-size: 18pt;
+}
+
+a {
+	color:#2C6D11;
+	font-family: Evogria;
+	font-size: 18pt;
+}
+
+g {
+	color:#FAF65A;
+	font-family: Bahnschrift;
+	font-size: 13pt;	
+}
+
+i {
+	color:#60E02C;
+	font-family: Bahnschrift;
+	font-size: 13pt;	
+}
+
+b {
+	color:#FF2E2E;
+	font-family: American Captain;
+	font-size: 48pt;		
+}
+
+u {
+	color:#C1C1C1;
+	font-family: Bahnschrift;
+	font-size: 14pt;
+}
